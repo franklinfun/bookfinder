@@ -18,5 +18,5 @@ Simple web app to search books using Open Library API.
 https://openlibrary.org/search.json?title={bookTitle}
 
 ## 🌐 Deployment
-Live Link: [Add link here]
+Live Link: [[Add link here](https://vitejs-vite-duplicat-b66u.bolt.host)]
 CodeSandbox Link: [Add link here]
